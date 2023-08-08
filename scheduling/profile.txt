@@ -1,0 +1,26 @@
+minUnits 0
+maxUnits 16
+
+# It is assumed that the quarters are sorted in chronological order.
+register Aut2023
+register Win2023
+
+# Courses I've already taken
+taken CS103
+taken CS106B
+taken CS107
+taken CS109
+taken CS140
+taken CS161
+taken CS221
+taken MATH51
+taken CS145
+taken CS124
+
+# Courses that I'm requesting
+request CS229 or CS205A     # Aut
+request CS224N  # Aut
+request CS148   # Aut
+request CS228   # Win
+request CS246   # Win
+request CS149   # Win
